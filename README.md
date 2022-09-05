@@ -6,7 +6,7 @@
  
  You can see the [code here](hello.py)
 
-### Assignment1
+## Assignment1
  This the pdf file for the first assignment.
 
  You can see the [file here](Overview_of_ML.pdf)
