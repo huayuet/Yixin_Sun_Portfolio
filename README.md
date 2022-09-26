@@ -17,3 +17,9 @@
  This is the file for assignment C++ data exploration
 
  Here is the [document here](assignment2.docx) and [source code](Source.cpp)
+
+## Assignment 2
+
+ This is the file for Portfolio: Linear Models.
+ 
+ Here is the [classfication file](Classfication.pdf) and [regression file](Regression.pdf).
