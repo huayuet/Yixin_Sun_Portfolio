@@ -29,3 +29,9 @@
  This is the file for Portfilio: ML from Scratch
  
  Here is the [description file](CS_4375_Description.pdf) and [code for logistic regression](log.cpp) this is [code for naive bayes](main.cpp).
+
+## Assignment 4
+
+ This is the file for Portfolio: Similarity
+
+ Here is the [regression part](5-Regression.pdf); [classfication part](5-Classfication.pdf); [clustering part](5-Clustering.pdf); [Dimensionality reduction part](5-dimensionality-reduction.pdf) and [narrative part](5-Narrative.pdf).
