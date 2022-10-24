@@ -35,3 +35,9 @@
  This is the file for Portfolio: Similarity
 
  Here is the [regression part](5-Regression.pdf); [classfication part](5-Classfication.pdf); [clustering part](5-Clustering.pdf); [Dimensionality reduction part](5-dimensionality-reduction.pdf) and [narrative part](5-Narrative.pdf).
+
+## Assignment 5
+
+ This is the file for Portfolio: Kernel and Ensemble
+
+ Here is the [Regression part](6-Regression.pdf); [classfication part](6-N2Classification.pdf); [ensemble part](6-Ensemble techniques.pdf); and [narrative part](6-narrative.pdf).
