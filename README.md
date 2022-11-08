@@ -41,3 +41,9 @@
  This is the file for Portfolio: Kernel and Ensemble
 
  Here is the [Regression part](6-Regression.pdf); [classfication part](6-N2Classification.pdf); [ensemble part](6-Ensemble techniques.pdf); and [narrative part](6-narrative.pdf).
+
+## Assignment 6
+
+ This is the file for Portfolio: ML with sklearn
+ 
+ Here is the [output file](7-sklearn.pdf).
