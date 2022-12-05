@@ -47,3 +47,9 @@
  This is the file for Portfolio: ML with sklearn
  
  Here is the [output file](7-sklearn.pdf).
+
+## Assignment 8
+
+ This is the file for Portfolio: Image Classification
+
+ Here is the [Part1-2](A8-12.pdf); [Part3](A8-3.pdf); [Part4-5](A8-45.pdf).
